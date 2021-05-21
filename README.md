@@ -16,25 +16,24 @@ With that in mind, what follows is geared towards understandability, at the expe
 
 #### Probability vs Statistics  
 
-The two are related, but not the same. If I had to try to capture the difference in one or two lines, it would be this: 
+The two are related, but they are not exactly the same. If I had to try to capture the difference in one or two lines, it would be something like this: 
 
-Statistics is, in a certain sense, backwards looking. Data has been collected, and from it things are said.
-
-Probability is, in a certain sense, forward looking. You are trying to predict the likelihood of events.
+* Statistics is, in a certain sense, backwards looking. Data has been collected, and from it things are said.  
+* Probability is, in a certain sense, forward looking. You are trying to predict the likelihood of events.
 
 That's a huge generalization, and some people will take issue with it, but I think it's good enough for this discussion.
 
 #### Types of Statistics  
 
-There are different types of statistics: descriptive, inferential, and predictive come immediately to mind.
+There are different types of statistics. Descriptive statistics, inferential statistics, and predictive statistics come immediately to mind. Some might add diagnostic statistics, prescriptive statistics, and one or two more. The three I mentioned are probably the most common, and it's good to know the differences among them. 
 
-Descriptive statistics basically takes a population and describes it.
+*Descriptive statistics* basically looks at an entire group (a "population") and describes it. That entire group might be all the students at a university, where a descriptive statistic might be, "54% of the student body is female, and 46% of the student body is male." Or, "The average age of the student body is 23 years and 4 months." Or, "The average family income of the student body is 
 
-Inferential statistics basically takes samples of a population and tries to make inferences about the overall population from which the sample was drawn.
+*Inferential statistics* basically takes samples of a population and tries to make inferences about the overall population from which the sample was drawn. This often happens when it's too difficult to get data from each and every element of the population. 
 
-Predictive statistics takes samples, and tries to predict things that might be outside the sample range.
+*Predictive statistics* takes samples, and tries to predict things that might be outside the sample range.
 
-Again, huge generalization, but good enough for now.
+Again, these are big generalizations, but good enough for now.
 
 #### Types of Probability  
 
