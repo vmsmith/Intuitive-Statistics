@@ -1,3 +1,7 @@
+[Everyday Things](https://github.com/vmsmith/EDT/blob/master/README.md)  
+
+### Intuitive Statistics  
+
 This 
 
 #### Accuracy vs Understandability  
