@@ -2,13 +2,17 @@
 
 ### Intuitive Statistics  
 
-This 
+#### Introduction  
+
+I have taken a lot of statistics courses in my day—at both undergraduate and graduate levels—and this document is written in the spirit of things I wish I had known when I was getting started. Too often statistics books begin with the math, and do not present an intuitive understanding of either what's going on, or where you're headed. Hopefully, if you don't know anything about statistics and are curious, this will provide you with a few points to help you understand what it's all about.
 
 #### Accuracy vs Understandability  
 
-Many beginning statistics books make a point that there is often a tradeoff between accuracy and understandability. One can develop very complex models, with many variables, that describe or predict something very accurately, but the models are incomprehensible. A person who owns a chain of shoe stores, for example, and wants to know what he or she has to do to increase sales, probably won't want a very accurate model that has complex numbers and converging infinite series that correlate shoe sales with sidewalk conditions and tidal ranges. That person would probably be happier with a slightly less accurate model that contains linear relationships between, say, web site ads and Twitter activity. Or something like that. (Yes, I know, the proper tools would probably be a data warehouse and pivot table, but this was just an example.)
+Many beginning statistics books make a point that there is often a tradeoff between accuracy and understandability. One can develop very complex models, with many variables, that describe or predict something very accurately, but the models are so complex as to not be understandable at the common sense level. What does it mean to say that some outcome is a function of the square root of negative pi? 
 
-With that in mind, what follows is geared towards understandability, at the expense of accuracy. But it's accurate enough for this discussion.
+A person who owns a chain of shoe stores, for example, and wants to know what he or she has to do to increase sales, probably won't want a very accurate model that has complex numbers and converging infinite series that correlate shoe sales with sidewalk conditions and tidal ranges. That person would probably be happier with a slightly less accurate model that contains linear relationships between, say, web site ads and Twitter activity. Or something like that. (Yes, I know, the proper tools would probably be a data warehouse and pivot table, but this was just an example.)
+
+With that in mind, what follows is geared towards understandability, at the expense of accuracy. People who really know and understand statistics may take issue with certain things, and from an accuracy point of view they would be correct. But what follows is accurate enough for developing an initial grasp of fundamental statistical concepts.
 
 #### Probability vs Statistics  
 
