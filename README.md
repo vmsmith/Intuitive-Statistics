@@ -41,11 +41,11 @@ I mention this because probability and statistics go hand in hand.
 
 There are three generally accepted types of probability, and not distinguishing among them can cause a lot of grief.
 
-*A priori* probabilities are associated with things like games of chance: dice, roulette, etc. The probabilities are baked in. For example, if a die is fair, you know that there is a 1 in 6 chance it will roll the number "1". Period. You don't have to roll the die 1,000 times and do the math; you know from the nature of the situation itself.
+1. *A priori* probabilities are associated with things like games of chance: dice, roulette, etc. The probabilities are baked in. For example, if a die is fair, you know that there is a 1 in 6 chance it will roll the number "1". Period. You don't have to roll the die 1,000 times and do the math; you know from the nature of the situation itself.
 
-Empirical probabilities are essentially based on the frequencies of past events. When a meteorologist says there's a 70% chance of rain, it essentially means that 70% of the times there have been similar conditions in the past, it has rained. Or, if there’s a weather model, the model shows rain 70% of the time.
+2. Empirical probabilities are essentially based on the frequencies of past events. When a meteorologist says there's a 70% chance of rain, it essentially means that 70% of the times there have been similar conditions in the past, it has rained. Or, if there’s a weather model, the model shows rain 70% of the time.
 
-Subjective probabilities are just what they sound like. They're something like intuitions based on personal experiences. Imagine an experienced teacher on the first day of class. He or she looks around the room, and within some period of time might identify the kids he or she thinks will be troublemakers, and puts them in the front row. Something like that.
+3. Subjective probabilities are just what they sound like. They're something like intuitions based on personal experiences. Imagine an experienced teacher on the first day of class. He or she looks around the room, and within some period of time might identify the kids he or she thinks will be troublemakers, and puts them in the front row. Something like that.
 
 If you read Nassim Nicholas Taleb, he came up with something called the Ludic Fallacy. "Ludic" comes from the Latin word *ludus*, meaning "game." The fallacy is in mistaking situations characterized by empirical or subjective probabilities for *a priori* (game) situations. 
 
